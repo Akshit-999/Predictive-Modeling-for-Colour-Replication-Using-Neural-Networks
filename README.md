@@ -32,6 +32,11 @@ The full pipeline:
 - Reflectance → Neural Network → 6-Base Formulation → Spectral Reconstruction → Lab → ΔE2000
 
 It is built to be research-grade and optimized for color matching, ink formulation, coating design, and industrial color reproduction workflows.
+**NOTE :- 
+- The dataset is confidential and not included in this repository.
+- The cleaned_notebook_v3.ipynb contains the complete pipeline with all steps.
+-  **Similar algorithm is used by the second largest paint producer in the world for accurate color reproduction
+. They have achieved 91 percent accuracy with their model, this model touches 80-85 percent**
 
 ## Problem Statement
 Given:
